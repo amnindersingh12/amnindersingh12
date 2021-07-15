@@ -28,7 +28,7 @@ Most of the projects that I have worked on or working on can be found here. If y
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=amnindersingh12&show_icons=true&title_color=4E1C94&icon_color=4E1C94&text_color=0F0321&bg_color=FFFFFF" alt="amnindersingh12"/> 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=amnindersingh12&hide" alt="amnindersingh12" />
+ 
 
 </p>
 <p align="center">  <img src="https://komarev.com/ghpvc/?username=amnindersingh12" alt="amnindersingh12" /> </p> 
