@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1> Hi there,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
 <br>
-I am a 3rd year computer science and engineering student interested in Machine Learning and AI.
+I am a 4th year computer science and engineering student interested in Machine Learning and AI.
 
 Most of the projects that I have worked on or working on can be found here. If you want to contribute to any of the projects or collaborate on any project, feel free to reach out to me!
 
