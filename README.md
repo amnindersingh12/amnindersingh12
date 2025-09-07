@@ -21,7 +21,7 @@ Most of the projects that I have worked on or working on can be found here. If y
 
 <!-- - 📫 Reach me through:  -->
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&&link=https://www.linkedin.com/in/amninder-singh-7a918b212//)](https://www.linkedin.com/in/amninder-singh-7a918b212/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:amnindersingh58611@gmail.com)](mailto:amnindersingh58611@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:amninder@duck.com)](mailto:amninder@duck.com)
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-111200E?style=for-the-badge&logo=GeeksforGeeks&logoColor=white&&link=https://auth.geeksforgeeks.org/user/amnindersingh1414/articles)](https://auth.geeksforgeeks.org/user/amnindersingh1414/articles) 
 [![Kaggle Badge](https://img.shields.io/badge/K-Kaggle-white?style=for-the-badge&logo=K&logoColor=blue&&link=https://www.kaggle.com/amnindersingh/)](https://www.kaggle.com/amnindersingh/)
 
